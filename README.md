@@ -18,7 +18,7 @@ The project aims to answer critical business questions, including:
 
 ## Data Set and Setup
 
-- The data set is approximately 3MB and includes information on Rockbuster's film inventory, customers, and payments.
+- The data set includes information on Rockbuster's film inventory, customers, and payments.
 The dataset, sourced from Rockbuster's Project Brief, encompasses essential information structured into Fact Tables and Dimension Tables:
 
 #### Fact Tables
